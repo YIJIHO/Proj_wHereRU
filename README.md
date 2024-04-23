@@ -11,7 +11,7 @@
 | 이지호 | GPS기능, 알림기능|
 
 ### 2. Specification
-![Java](https://img.shields.io/badge/Java-9932cc?style=for-the-badge&logo=java&logoColor=white&labelColor=gray&label=8)
+![Java](https://img.shields.io/badge/Java-a95e13?style=for-the-badge&logo=java&logoColor=white&labelColor=gray&label=8)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=gray&label=5.3.23)
 ![Kotiln](https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
