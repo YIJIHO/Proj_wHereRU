@@ -5,10 +5,10 @@
 
 |개발기간| 2023.06 - 2023.07 (4주) |
 |:--------:|:----:|
-| 노유민 | 이미지저장, 로그인|
-| 박혜원 | 게시글, 회원|
-| 오혁진 | 인프라, 채팅|
-| 이지호 | GPS, 알림|
+| 노유민 | 이미지저장, 로그인기능|
+| 박혜원 | 게시글기능, 회원관리|
+| 오혁진 | 인프라, 채팅기능|
+| 이지호 | GPS기능, 알림기능|
 
 ### 2. Specification
 ![Java](https://img.shields.io/badge/Java-9932cc?style=for-the-badge&logo=java&logoColor=white&labelColor=gray&label=8)
@@ -25,3 +25,24 @@
 
 ### 4. Architecture
 ![image](https://github.com/YIJIHO/Proj_wHereRU/assets/127674150/f51fc9d1-e811-4b10-839a-ec5d4b113e7d)
+
+### 5. File Structure
+```plaintext
+wHereRU_Android
+ |-->Activity.kt
+ |-->util
+      └-->retrofit
+ └-->res
+      |-->drawble
+      |-->font
+      |-->layout
+      └-->values
+wHereRU_Spring
+mian/whereru
+      |-->chat
+      |-->main
+      |-->notice
+      └-->user
+main/resource
+       └-->firebase
+```
