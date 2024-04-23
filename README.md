@@ -13,12 +13,12 @@
 ### 2. Specification
 ![Java](https://img.shields.io/badge/Java-9932cc?style=for-the-badge&logo=java&logoColor=white&labelColor=gray&label=8)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=gray&label=5.3.23)
-![Kotiln](https://img.shields.io/badge/kotlin-6a5acd.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Kotiln](https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-DC382D?style=for-the-badge&logo=oracle&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-e9967a?style=for-the-badge&logo=github&logoColor=white)
-![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-782A90.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 
 ### 3. ERD
 ![image](https://github.com/YIJIHO/Proj_wHereRU/assets/127674150/ad30840b-f678-402d-aa8f-845217af807d)
